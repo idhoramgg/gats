@@ -1,7 +1,7 @@
 export default {
   text: "#000",
   background: "#fff",
-  primary: "#e63b19",
+  primary: "#e63b19", 
   secondary: "#c70d3a",
   sidebar: "#eee",
   borderColor: "rgba(0, 0, 0, 0.15)",
